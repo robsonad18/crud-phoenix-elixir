@@ -1,0 +1,8 @@
+<section class="phx-hero">
+  <h1><%= gettext "CRUD %{name}!", name: "Phoenix" %></h1>
+  <p>Bem vindo ao CRUD com Phoenix(elixir)</p>
+</section>
+
+<section class="row">
+  <a href="/users"> Cadastre seu usuario</a>
+</section>
